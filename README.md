@@ -105,9 +105,6 @@ pip install Topsis-Hitesh-102317248
 topsis <InputDataFile> <Weights> <Impacts> <ResultFileName>
 ```
 
-### Package Testing: Successful !
-<img src="assets/testing.jpeg">
-
 ---
 
 ## Part-III: Web Service (Flask)
