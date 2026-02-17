@@ -121,12 +121,12 @@ Part-III includes a Flask-based web service for TOPSIS. The user uploads the dat
 - Output file is generated and emailed to the user
 
 ### User Interface 
-<img src="assets/interface.jpeg">
+<img src="assets/interface.png">
 
 ### Email Output
-<img src="assets/email.jpeg">
+<img src="assets/email.png">
 
-#### Live Link: 
+#### Live Link: https://assign1-topsis.onrender.com/
 **Live Deployment Status:** While the application is compatible with platforms like Render or Railway, outbound SMTP (Email) traffic on ports 587 and 465 is currently blocked by these providers' free-tier firewalls to prevent spam. Consequently, the email-sending feature is best demonstrated in a local environment where network ports are unrestricted.
 
 ## Procedure to run locally
