@@ -3,3 +3,4 @@ flask-mail
 pandas
 numpy
 gunicorn
+-e ./topsis_package
